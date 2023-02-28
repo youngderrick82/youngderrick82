@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 My name is Derrick Young, I am programmer versed in HTML, CSS, and JavaScript. I am currently working on projects to develop my portfolio.
+
 
 <!--
 **youngderrick82/youngderrick82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
