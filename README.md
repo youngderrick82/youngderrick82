@@ -2,6 +2,9 @@
 
 My name is Derrick Young, I am programmer versed in HTML, CSS, and JavaScript. I am currently working on projects to develop my portfolio. I am currently taking part in a local coding bootcamp to expand my skills and gain additional experience.
 
+<br>
+<br>
+<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngderrick82)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
