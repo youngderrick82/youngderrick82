@@ -4,7 +4,7 @@ My name is Derrick Young, I am programmer versed in HTML, CSS, and JavaScript. I
 <br>
 
 ⚡ Fun fact: I play guitar and piano <br>
-🔭 I’m currently working on creating a website bookmarking website
+🔭 I’m currently working on creating a website bookmarking application
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngderrick82)](https://github.com/anuraghazra/github-readme-stats)
