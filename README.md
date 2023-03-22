@@ -8,6 +8,7 @@ My name is Derrick Young, I am programmer versed in HTML, CSS, and JavaScript. I
 <ul>
 <li>Creating a website bookmarking application</li>
 <li>Building website for a streamer/youtuber</li>
+<li>Developing portfolio</li>
 </ul>
 ---
 
