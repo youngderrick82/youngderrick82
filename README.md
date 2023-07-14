@@ -7,7 +7,7 @@ My name is Derrick Young, I am programmer versed in HTML, CSS, JavaScript, React
 🔭 I’m currently working on:
 <ul>
 <li>Creating a website bookmarking application</li>
-<li>Building website for a streamer/youtuber</li>
+<li>Building website for a streaming/youtube group</li>
 <li>Developing portfolio</li>
 </ul>
 ---
