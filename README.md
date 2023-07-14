@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Derrick Young, I am programmer versed in HTML, CSS, JavaScript, and ReactJS. I am currently working on projects to develop my portfolio. I am currently taking part in a local coding bootcamp to expand my skills and gain additional experience.
+My name is Derrick Young, I am programmer versed in HTML, CSS, JavaScript, ReactJS, Bootstrap, and MaterialUI. I am currently working on projects to develop my portfolio. I am currently taking part in a local coding bootcamp to expand my skills and gain additional experience.
 <br>
 
 ⚡ Fun fact: I play guitar and piano <br>
