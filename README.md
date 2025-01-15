@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-My name is Derrick Young, I am programmer versed in HTML, CSS, JavaScript, ReactJS, Bootstrap, and MaterialUI. I am currently working on projects to develop my portfolio. I am currently taking part in a local coding bootcamp to expand my skills and gain additional experience.
+My name is Derrick Young, I am programmer versed in front-end and back-end development.
 <br>
 
 ⚡ Fun fact: I play guitar and piano <br>
 🔭 I’m currently working on:
 <ul>
-<li>Creating a website bookmarking application</li>
-<li>Building website for a streaming/youtube group</li>
-<li>Developing portfolio</li>
+<li>A super secret cool project</li>
 </ul>
----
+
+___
 
 <!--
 **youngderrick82/youngderrick82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
