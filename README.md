@@ -1,14 +1,6 @@
-### Hi there 👋
+### Hi there 
 
-My name is Derrick Young, I am programmer versed in front-end and back-end development.
-<br>
-
-⚡ Fun fact: I play guitar and piano <br>
-🔭 I’m currently working on:
-<ul>
-<li>A super secret cool project</li>
-</ul>
-
+Derrick Young | Fullstack Developer
 ___
 
 <!--
