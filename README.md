@@ -1,6 +1,7 @@
 ### Hi there 
 
-Derrick Young | Fullstack Developer
+Derrick Young | Fullstack Developer | 
+TypeScript, Javascript, HTML, CSS, React, Python, Django
 ___
 
 <!--
